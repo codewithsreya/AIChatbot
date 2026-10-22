@@ -36,3 +36,12 @@ How to Run
 Author
 
 GitHub: codewithsreya
+Screenshots
+
+1. AI Chatbot Interface
+
+"AI Chatbot Interface" (https://github.com/codewithsreya/AIChatbot/blob/master/Screenshot%202026-10-22%20191824.png?raw=true)
+
+2. AI Chatbot Response
+
+"AI Chatbot Response" (https://github.com/codewithsreya/AIChatbot/blob/master/Screenshot%202026-10-22%20191850.png?raw=true)
