@@ -38,11 +38,8 @@ Author
 GitHub: codewithsreya
 Screenshots
 
-1. AI Chatbot Interface
+AI Chatbot Interface
 
-"AI Chatbot Interface" (https://github.com/codewithsreya/AIChatbot/blob/master/Screenshot%202026-10-22%20191824.png?raw=true)
+<img src="https://github.com/codewithsreya/AIChatbot/blob/master/chatbot-1.png.png?raw=true" width="300" alt="AI Chatbot Interface">AI Chatbot Response
 
-2. AI Chatbot Response
-
-"AI Chatbot Response" (https://github.com/codewithsreya/AIChatbot/blob/master/Screenshot%202026-10-22%20191850.png?raw=true)
-project completed
+<img src="https://github.com/codewithsreya/AIChatbot/blob/master/chatbot-2.png.png?raw=true" width="300" alt="AI Chatbot Response">
